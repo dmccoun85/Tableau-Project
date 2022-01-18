@@ -1,3 +1,5 @@
+## Project Introduction<br>
+In this project, I created visualizations to reveal insights from a data set. I created data visualizations that highlight patterns in the data set. Please see PDF file as well as checking out the links below.
 
 <b>Dashboard/Insight 1:</b><br>
 https://public.tableau.com/app/profile/daniel1569/viz/UnemploymentDashboard_16407148937730/Dashboard1?publish=yes![image](https://user-images.githubusercontent.com/96150701/149994055-ff6f836a-beb4-4944-a0a4-61ea6a9f37ca.png)
