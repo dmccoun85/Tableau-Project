@@ -7,5 +7,3 @@ https://public.tableau.com/app/profile/daniel1569/viz/UnemploymentDashboard_1640
 <b>Insight 2 Visualization:</b><br>
 https://public.tableau.com/app/profile/daniel1569/viz/OfficevsConstruction/OfficeConstruction?publish=yes![image](https://user-images.githubusercontent.com/96150701/149994091-8ddc8a84-5e1c-4ca0-a221-e31320af8499.png)
 
-<b>Insight 3 Visualization:</b><br>
-https://public.tableau.com/app/profile/daniel1569/viz/UdacityTableauProject_16407197807910/PrivatePublic?publish=yes![image](https://user-images.githubusercontent.com/96150701/149994110-d499774f-da8b-4b1f-a865-b98da105ceff.png)
